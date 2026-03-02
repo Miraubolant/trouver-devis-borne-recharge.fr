@@ -5,5 +5,5 @@ services:
     ports:
       - "8010:80"
     volumes:
-      - .:/var/www/html:rw
+      - ./data:/var/www/html/data:rw
     restart: unless-stopped
