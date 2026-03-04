@@ -45,8 +45,7 @@
                         <div
                             class="w-9 h-9 bg-gradient-to-br from-primary-600 to-accent-500 rounded-lg flex items-center justify-center shadow-sm group-hover:shadow-md transition-shadow">
                             <svg class="w-5 h-5 text-white" fill="currentColor" viewBox="0 0 24 24">
-                                <path
-                                    d="M6 2h10a2 2 0 012 2v16a2 2 0 01-2 2H6a2 2 0 01-2-2V4a2 2 0 012-2zm0 2v16h10V4H6zm2 2h6v5H8V6zm0 7h6v5H8v-5zm5 2a1 1 0 110 2 1 1 0 010-2z" />
+                                <path d="M13 10V3L4 14h7v7l9-11h-7z" />
                             </svg>
                         </div>
                         <span class="font-semibold text-base tracking-tight uppercase">
