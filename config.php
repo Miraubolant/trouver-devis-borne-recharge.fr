@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 /**
  * ============================================
  * ANNUAIRE-BORNE-RECHARGE.FR - CONFIGURATION
@@ -8,7 +8,7 @@
 define('SITE_NAME', 'trouver-devis-borne-recharge.fr');
 define('SITE_DOMAIN', 'trouver-devis-borne-recharge.fr');
 define('SITE_URL', 'https://trouver-devis-borne-recharge.fr');
-define('SITE_EMAIL', 'contact@trouver-devis-borne-recharge.fr');
+define('SITE_EMAIL', 'admin@miraubolant.com');
 define('SITE_TAGLINE', "Installation de Bornes de Recharge Partout en France");
 define('SITE_DESCRIPTION', "Trouvez un électricien qualifié IRVE pour l\'installation de votre borne de recharge électrique.");
 
